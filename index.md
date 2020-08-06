@@ -9,7 +9,7 @@ To get access to the SOPs use the links to the repository in this page.
 | SOP No. | Title | Description |
 | --- | --- | --- |
 | SOP 01 | List all new or modified files | Lab Safety |
-| git diff | Show file differences that haven't been staged | [I'm a relative reference to a repository file](../blob/master//01_Laboratory_Safety/Laboratory_Safety_v03.pdf) |
+| git diff | Show file differences that haven't been staged | [I'm a relative reference to a repository file](../blob/master/01_Laboratory_Safety/Laboratory_Safety_v03.pdf) |
 
 ### Authors and Contributors
 
