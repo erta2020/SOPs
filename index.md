@@ -8,7 +8,7 @@ To get access to the SOPs use the links to the repository in this page.
 
 | SOP No. | Title | Description |
 | --- | --- | --- |
-| SOP 01 | List all new or modified files | Lab Safety |
+| SOP 01 | List all new or modified files | [#02](https://github.com/marclos/SOPs/raw/master/02_Handling_of_Hazardous_Materials/Hazardous_Materials_v02.pdf) |
 | git diff | Show file differences that haven't been staged | [I'm a relative reference to a repository file](../blob/master/01_Laboratory_Safety/Laboratory_Safety_v03.pdf) |
 
 ### Authors and Contributors
